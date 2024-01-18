@@ -1,3 +1,13 @@
+# Aufgabe 1:
+# Erstellen Sie eine Funktion addBookToShelf mit dem
+# Parameter shelf.
+#
+# Die Funktion fügt ein neues Buch in ein Fach des
+# Bücherregals ein. Dazu fragt es dem Anwender nach der
+# Reihe und der Lücke sowie dem Buchtitel.
+
+
+
 shelf = list()
 
 # Create a bookshelf with 10 rows and 30 books per row.
