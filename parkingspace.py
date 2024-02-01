@@ -13,3 +13,11 @@
 # - Ankunftszeit (arrival)
 # - Abfahrtszeit (departure)
 # - Kennzeichen (license plate)
+
+# Aufgabe 4
+# Erstellen Sie eine Funktion, welche die Ankunftszeit für ein Fahrzeug sowie
+# das Kennzeichen setzt.
+
+# Aufgabe 5
+# Für die Anzeige der freien Parkplätze werden nun die Parkplätze gezählt,
+# welche keine gesetzte Kennzeichen haben.
